@@ -1,7 +1,3 @@
-## Hi there 👋
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-### ・Some information about me
-![Metrics](/github-metrics.svg)
-
-### ・Contributions
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioAlvarezMed&theme=vue)
